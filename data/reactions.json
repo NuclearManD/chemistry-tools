@@ -23,6 +23,32 @@
 		},
 		"min_temperature": 2200,
 		"max_temperature": null,
-		"energy_delta_joules": 460000
+		"energy_delta_joules": -460000
+	},
+	{
+		"reactants": {
+			"7664-93-9": "1 ",
+			"7647-14-5": "1 "
+		},
+		"products": {
+			"630-08-0": "1 g",
+			"7681-38-1": "1 l"
+		},
+		"min_temperature": null,
+		"max_temperature": null,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"7664-93-9": "1 ",
+			"7647-14-5": "1 "
+		},
+		"products": {
+			"630-08-0": "1 g",
+			"7681-38-1": "1 l"
+		},
+		"min_temperature": null,
+		"max_temperature": null,
+		"energy_delta_joules": null
 	}
 ]
