@@ -1,7 +1,7 @@
 {
 	"75-20-7": {
 		"name": "Calcium Carbide",
-		"formula": "CaC2",
+		"formula": "CaC2"
 	},
 	"74-86-2": {
 		"name": "Acetylene",
@@ -91,5 +91,71 @@
 		"formula": "CH4",
 		"melting_point": -182.456,
 		"boiling_point": -161.5
+	},
+	"124-38-9": {
+		"name": "Carbon Dioxide",
+		"formula": "CO2",
+		"melting_point": null,
+		"boiling_point": -78.5
+	},
+	"1333-74-0": {
+		"name": "Hydrogen",
+		"formula": "H2",
+		"melting_point": -259.16,
+		"boiling_point": -252.879
+	},
+	"7440-02-0": {
+		"name": "Nickel",
+		"formula": "Ni",
+		"melting_point": 1455,
+		"boiling_point": 2730
+	},
+	"7647-01-0": {
+		"name": "Hydrogen Chloride",
+		"formula": "HCl",
+		"melting_point": -114.22,
+		"boiling_point": -85.05
+	},
+	"13478-00-7": {
+		"name": "Nickel Nitrate",
+		"formula": "Ni(NO3)2",
+		"melting_point": 56.7,
+		"boiling_point": 136.7
+	},
+	"7697-37-2": {
+		"name": "Nitric Acid",
+		"formula": "HNO3",
+		"melting_point": -42,
+		"boiling_point": 83
+	},
+	"7664-41-7": {
+		"name": "Ammonia",
+		"formula": "NH3",
+		"melting_point": -77.73,
+		"boiling_point": -33.34
+	},
+	"10102-43-9": {
+		"name": "Nitric Oxide",
+		"formula": "NO",
+		"melting_point": -164,
+		"boiling_point": -152
+	},
+	"7727-37-9": {
+		"name": "Nitrogen",
+		"formula": "N2",
+		"melting_point": -209.86,
+		"boiling_point": -195.795
+	},
+	"7440-06-4": {
+		"name": "Platinum",
+		"formula": "Pt",
+		"melting_point": 1772,
+		"boiling_point": 2187
+	},
+	"10102-44-0": {
+		"name": "Nitrogen Dioxide",
+		"formula": "NO2",
+		"melting_point": -9.3,
+		"boiling_point": 21.15
 	}
 }
