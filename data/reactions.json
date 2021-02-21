@@ -1,0 +1,28 @@
+[
+	{
+		"reactants": {
+			"75-20-7": "1 s",
+			"7732-18": "2 aq"
+		},
+		"products": {
+			"74-86-2": "1 g",
+			"1305-62-0": "1 aq"
+		},
+		"min_temperature": 0,
+		"max_temperature": 100,
+		"energy_delta": null
+	},
+	{
+		"reactants": {
+			"1305-78-8": "1 s",
+			"65996-77-2": "3 s"
+		},
+		"products": {
+			"630-08-0": "1 g",
+			"75-20-7": "1 s"
+		},
+		"min_temperature": 2200,
+		"max_temperature": null,
+		"energy_delta_joules": 460000
+	}
+]

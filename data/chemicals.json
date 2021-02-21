@@ -26,5 +26,18 @@
 	"65996-77-2": {
 		"name": "Coke Coal",
 		"formula": "C"
-	}
+	},
+	"1305-78-8": {
+		"name": "Quicklime",
+		"formula": "CaO"
+	},
+	"7758-89-6": {
+		"name": "Copper(I) chloride",
+		"formula": "CuCl"
+	},
+	"630-08-0": {
+		"name": "Carbon Monoxide",
+		"formula": "CO"
+	},
+	"
 }
