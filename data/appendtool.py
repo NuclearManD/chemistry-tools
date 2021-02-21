@@ -78,18 +78,25 @@ if __name__ == '__main__':
 
 	try:
 		while True:
-			reactants = getList("reactant: name,qty,state")
-			products = getList("product: name,qty,state")
+			try:
+				reactants = processChemList(getList("reactant: name,qty,state"))
+				products = processChemList(getList("product: name,qty,state"))
+			except Exception as e:
+				print(e)
+				print("Try again")
+				print()
+				continue
 
 			min_temp = getFloatOrNone('Minimum temperature (C)')
 			max_temp = getFloatOrNone('Maximum temperature (C)')
 			energy = getFloatOrNone('Energy released, Joules')
 			catalyst = getChemOrNone('Catalyst')
 			voltage = getFloatOrNone('Electrolysis Voltage')
+			pressure = getFloatOrNone('Pressure (atm)')
 
 			obj = {
-				'reactants': processChemList(reactants),
-				'products': processChemList(products),
+				'reactants': reactants,
+				'products': products,
 				'min_temperature': min_temp,
 				'max_temperature': max_temp,
 				'energy_delta_joules': energy
@@ -100,6 +107,9 @@ if __name__ == '__main__':
 
 			if voltage is not None:
 				obj['voltage'] = voltage
+
+			if pressure is not None:
+				obj['pressure_atm'] = pressure
 
 			reactions.append(obj)
 
