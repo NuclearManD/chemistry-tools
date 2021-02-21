@@ -157,5 +157,48 @@
 		"formula": "NO2",
 		"melting_point": -9.3,
 		"boiling_point": 21.15
+	},
+	"13463-39-3": {
+		"name": "Nickel Tetracarbonyl",
+		"formula": "Ni(CO)4",
+		"melting_point": -17.2,
+		"boiling_point": 43,
+		"safety_notes_en": "EXTREMELY DANGEROUS: Rapid skin absorbtion, highly toxic.  Very short exposure could cause death or major residual injury.  Most likely you will inhale it (due to high volatility), absorb nickel in your body, and potentially die in a few days, after experiencing depression and fatigue."
+	},
+	"1313-99-1": {
+		"name": "Nickel Oxide",
+		"formula": "NiO",
+		"melting_point": 1955
+	},
+	"10025-78-2": {
+		"name": "Trichlorosilane",
+		"formula": "HCl3Si",
+		"melting_point": -126.6,
+		"boiling_point": 31.8
+	},
+	"10026-04-7": {
+		"name": "Silicon Tetrachloride",
+		"formula": "SiCl4",
+		"melting_point": -68.74,
+		"boiling_point": 57.65
+	},
+	"7782-50-5": {
+		"name": "Chlorine",
+		"formula": "Cl2",
+		"melting_point": -101.5,
+		"boiling_point": -34.04
+	},
+	"7782-50-5": {
+		"name": "Silicon",
+		"formula": "Si",
+		"melting_point": 1414,
+		"boiling_point": 3265
+	},
+	"7631-86-9": {
+		"name": "Silicon Dioxide",
+		"formula": "SiO2",
+		"melting_point": 1713,
+		"boiling_point": 2950,
+		"aliases": ["Silica", "Quartz"]
 	}
 }
