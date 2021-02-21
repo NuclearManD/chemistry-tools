@@ -1,30 +1,30 @@
 {
 	"75-20-7": {
 		"name": "Calcium Carbide",
-		"symbol": "CaC2"
+		"formula": "CaC2"
 	},
 	"74-86-2": {
 		"name": "Acetylene",
-		"symbol": "C2H2"
+		"formula": "C2H2"
 	},
 	"1305-62-0": {
 		"name": "Calcium Hydroxide",
-		"symbol": "Ca(OH)2"
+		"formula": "Ca(OH)2"
 	},
 	"7732-18": {
 		"name": "Water",
-		"symbol": "H2O"
+		"formula": "H2O"
 	},
 	"7782-44-7": {
 		"name": "Oxygen",
-		"symbol": "O2",
+		"formula": "O2",
 	},
 	"10028-15-6": {
 		"name": "Ozone",
-		"symbol": "O3"
+		"formula": "O3"
 	},
 	"65996-77-2": {
 		"name": "Coke Coal",
-		"symbol": "C"
+		"formula": "C"
 	}
 }
