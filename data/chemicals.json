@@ -1,7 +1,7 @@
 {
 	"75-20-7": {
 		"name": "Calcium Carbide",
-		"formula": "CaC2"
+		"formula": "CaC2",
 	},
 	"74-86-2": {
 		"name": "Acetylene",
@@ -13,15 +13,21 @@
 	},
 	"7732-18": {
 		"name": "Water",
-		"formula": "H2O"
+		"formula": "H2O",
+		"melting_point": 0,
+		"boiling_point": 100
 	},
 	"7782-44-7": {
 		"name": "Oxygen",
 		"formula": "O2",
+		"melting_point": -218.79,
+		"boiling_point": -182.96
 	},
 	"10028-15-6": {
 		"name": "Ozone",
-		"formula": "O3"
+		"formula": "O3",
+		"melting_point": -192.2,
+		"boiling_point": -112
 	},
 	"65996-77-2": {
 		"name": "Coke Coal",
@@ -39,5 +45,28 @@
 		"name": "Carbon Monoxide",
 		"formula": "CO"
 	},
-	"
+	"74-98-6": {
+		"name": "Propane",
+		"formula": "C3H8",
+		"melting_point": -187.7,
+		"boiling_point": -42.1
+	},
+	"106-97-8": {
+		"name": "Butane",
+		"formula": "C4H10",
+		"melting_point": -137,
+		"boiling_point": 0
+	},
+	"109-66-0": {
+		"name": "Pentane",
+		"formula": "C5H12",
+		"melting_point": -130,
+		"boiling_point": 36.1
+	},
+	"78-79-5": {
+		"name": "Isoprene",
+		"formula": "C5H8",
+		"melting_point": -143.95,
+		"boiling_point": 34.067
+	}
 }
