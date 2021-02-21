@@ -10,7 +10,7 @@
 		},
 		"min_temperature": 0,
 		"max_temperature": 100,
-		"energy_delta": null
+		"energy_delta_joules": null
 	},
 	{
 		"reactants": {
