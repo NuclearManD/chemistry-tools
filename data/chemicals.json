@@ -188,7 +188,7 @@
 		"melting_point": -101.5,
 		"boiling_point": -34.04
 	},
-	"7782-50-5": {
+	"7440-21-3": {
 		"name": "Silicon",
 		"formula": "Si",
 		"melting_point": 1414,
@@ -235,7 +235,8 @@
 		"name": "Magnesium Chloride",
 		"formula": "MgCl2",
 		"melting_point": 714,
-		"boiling_point": 1412
+		"boiling_point": 1412,
+		"aliases": ["Nigari", "Lushui"]
 	},
 	"1309-42-8": {
 		"name": "Magnesium Hydroxide",

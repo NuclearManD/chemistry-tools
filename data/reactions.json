@@ -190,7 +190,7 @@
 			"65996-77-2": "2 s"
 		},
 		"products": {
-			"7782-50-5": "1 s",
+			"7440-21-3": "1 s",
 			"630-08-0": "2 g"
 		},
 		"min_temperature": 1500.0,
@@ -199,7 +199,7 @@
 	},
 	{
 		"reactants": {
-			"7782-50-5": "1 s",
+			"7440-21-3": "1 s",
 			"7647-01-0": "3 g"
 		},
 		"products": {
@@ -212,7 +212,7 @@
 	},
 	{
 		"reactants": {
-			"7782-50-5": "1 s",
+			"7440-21-3": "1 s",
 			"10026-04-7": "3 l",
 			"1333-74-0": "2 g"
 		},
@@ -243,7 +243,7 @@
 		},
 		"products": {
 			"1309-48-4": "2 s",
-			"7782-50-5": "1 s"
+			"7440-21-3": "1 s"
 		},
 		"min_temperature": null,
 		"max_temperature": null,
@@ -252,7 +252,7 @@
 	{
 		"reactants": {
 			"7439-95-4": "2 s",
-			"7782-50-5": "1 s"
+			"7440-21-3": "1 s"
 		},
 		"products": {
 			"22831-39-6": "1 s"
@@ -260,5 +260,67 @@
 		"min_temperature": null,
 		"max_temperature": null,
 		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"1309-48-4": "1 s",
+			"7732-18": "1 l"
+		},
+		"products": {
+			"1309-42-8": "1 aq"
+		},
+		"min_temperature": null,
+		"max_temperature": null,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"1309-42-8": "1 s"
+		},
+		"products": {
+			"1309-48-4": "1 s",
+			"7732-18": "1 g"
+		},
+		"min_temperature": 332.0,
+		"max_temperature": null,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"546-93-0": "1 aq",
+			"1310-73-2": "2 aq"
+		},
+		"products": {
+			"1309-42-8": "1 s"
+		},
+		"min_temperature": null,
+		"max_temperature": null,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"1309-42-8": "1 s",
+			"7647-01-0": "2 aq"
+		},
+		"products": {
+			"7786-30-3": "1 aq",
+			"7732-18": "2 l"
+		},
+		"min_temperature": null,
+		"max_temperature": null,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"7786-30-3": "1 l"
+		},
+		"products": {
+			"7782-50-5": "1 g",
+			"7439-95-4": "1 l"
+		},
+		"min_temperature": 714.0,
+		"max_temperature": null,
+		"energy_delta_joules": null,
+		"voltage": 6.0
 	}
 ]
