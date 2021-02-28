@@ -322,5 +322,31 @@
 		"max_temperature": null,
 		"energy_delta_joules": null,
 		"voltage": 6.0
+	},
+	{
+		"reactants": {
+			"22831-39-6": "1 s",
+			"7647-01-0": "4 aq"
+		},
+		"products": {
+			"7803-62-5": "1 g",
+			"7786-30-3": "2 s"
+		},
+		"min_temperature": null,
+		"max_temperature": null,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"7647-01-0": "4 aq",
+			"22831-39-6": "1 s"
+		},
+		"products": {
+			"7803-62-5": "1 g",
+			"7786-30-3": "2 s"
+		},
+		"min_temperature": null,
+		"max_temperature": null,
+		"energy_delta_joules": null
 	}
 ]
