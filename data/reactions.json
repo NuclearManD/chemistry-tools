@@ -222,5 +222,43 @@
 		"min_temperature": null,
 		"max_temperature": null,
 		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"1309-48-4": "1 s",
+			"65996-77-2": "1 s"
+		},
+		"products": {
+			"7439-95-4": "1 g",
+			"630-08-0": "1 g"
+		},
+		"min_temperature": 2300.0,
+		"max_temperature": null,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"7439-95-4": "2 s",
+			"7631-86-9": "1 s"
+		},
+		"products": {
+			"1309-48-4": "2 s",
+			"7782-50-5": "1 s"
+		},
+		"min_temperature": null,
+		"max_temperature": null,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"7439-95-4": "2 s",
+			"7782-50-5": "1 s"
+		},
+		"products": {
+			"22831-39-6": "1 s"
+		},
+		"min_temperature": null,
+		"max_temperature": null,
+		"energy_delta_joules": null
 	}
 ]
