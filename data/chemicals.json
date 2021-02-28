@@ -200,5 +200,35 @@
 		"melting_point": 1713,
 		"boiling_point": 2950,
 		"aliases": ["Silica", "Quartz"]
+	},
+	"1309-48-4": {
+		"name": "Magnesium Oxide",
+		"formula": "MgO",
+		"melting_point": 2852,
+		"boiling_point": 3600,
+		"aliases": ["Magnesia"]
+	},
+	"7439-95-4": {
+		"name": "Magnesium",
+		"formula": "Mg",
+		"melting_point": 650,
+		"boiling_point": 1091,
+	},
+	"22831-39-6": {
+		"name": "Magnesium Silicide",
+		"formula": "Mg2Si",
+		"melting_point": 1102
+	},
+	"7803-62-5": {
+		"name": "Silane",
+		"formula": "SiH4",
+		"melting_point": -185,
+		"boiling_point": -111.9,
+		"safety_notes_en": "Will very likely ignite in air, sometimes explosively.  Toxic."
+	},
+	"546-93-0": {
+		"name": "Magnesium Carbonate",
+		"formula": "MgCO3",
+		"aliases": ["Magnesite"]
 	}
 }
