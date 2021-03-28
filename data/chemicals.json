@@ -255,5 +255,47 @@
 		"formula": "Na2CO3",
 		"melting_point": 851,
 		"aliases": ["Soda Ash", "Washing Soda", "Natron", "Thermonatrite"]
+	},
+	"12068-85-8": {
+		"name": "Iron Disulfide",
+		"formula": "FeS2",
+		"melting_point": 1180,
+		"aliases": ["Marcasite", "Pyrite", "Iron Pyrite"],
+		"mineral_info": {
+		}
+	},
+	"12168-80-8": {
+		"name": "Potassium Aluminum Silicate",
+		"formula": "KAlSi3O8",
+		"melting_point": 1170,
+		"aliases": ["Orthoclase", "Feldspar", "Potassium Feldspar"]
+	},
+	"68476-25-5": {
+		"name": "Sodium Aluminum Silicate",
+		"formula": "NaAlSi3O8",
+		"melting_point": 1110,
+		"aliases": ["Albite", "Feldspar", "Sodium Feldspar"]
+	},
+	"1302-54-1": {
+		"name": "Calcium Aluminum Silicate",
+		"formula": "CaAl2Si2O8",
+		"melting_point": 1553,
+		"aliases": ["Anorthite", "Feldspar", "Calcium Feldspar"]
+	},
+	"21645-51-2": {
+		"name": "Aluminum Hydroxide",
+		"melting_point": 300,
+		"formula": "Al(OH)3",
+		"aliases": ["Gibbsite"]
+	},
+	"13918-37-1": {
+		"name": "Iron Silicate",
+		"formula": "Fe2SiO4",
+		"aliases": ["Fayalite"]
+	},
+	"463-79-6": {
+		"name": "Carbonic Acid",
+		"formula": "H2CO3",
 	}
+	
 }
