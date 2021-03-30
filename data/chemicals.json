@@ -34,8 +34,9 @@
 		"formula": "C"
 	},
 	"1305-78-8": {
-		"name": "Quicklime",
-		"formula": "CaO"
+		"name": "Calcium Oxide",
+		"formula": "CaO",
+		"aliases": ["Quicklime"]
 	},
 	"7758-89-6": {
 		"name": "Copper(I) chloride",
@@ -301,5 +302,17 @@
 		"name": "Silicic Acid",
 		"formula": "Si(OH)4",
 		"aliases": ["SiH4O4", "SiO4H4", "H4SiO4"]
+	},
+	"7778-18-9": {
+		"name": "Calcium Sulfate",
+		"formula": "CaSO4",
+		"melting_point": 1460,
+		"aliases": ["Plaster Paris", "Drierite", "Gypsum"]
+	},
+	"7446-11-9": {
+		"name": "Sulfur Trioxide",
+		"formula": "SO3",
+		"melting_point": 16.9,
+		"boiling_point": 45
 	}
 }
