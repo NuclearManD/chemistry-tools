@@ -348,5 +348,18 @@
 		"min_temperature": null,
 		"max_temperature": null,
 		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"7439-95-4": "2 s",
+			"124-38-9": "1 g"
+		},
+		"products": {
+			"1309-48-4": "2 s",
+			"65996-77-2": "1 s"
+		},
+		"min_temperature": 473.0,
+		"max_temperature": null,
+		"energy_delta_joules": 810100.0
 	}
 ]
