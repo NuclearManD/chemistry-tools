@@ -328,7 +328,7 @@
 	},
 	"1344-28-1": {
 		"name": "Aluminum Oxide",
-		"fomula": "Al2O3",
+		"formula": "Al2O3",
 		"aliases": ["Corundum", "Alumina"]
 	},
 	"1302-42-7": {
@@ -336,5 +336,11 @@
 		"formula": "NaAlO2",
 		"melting_point": 1650,
 		"water_solubility": true
+	},
+	"7429-90-5": {
+		"name": "Aluminum",
+		"formula": "Al",
+		"melting_point": 660.32,
+		"boiling_point": 2470
 	}
 }
