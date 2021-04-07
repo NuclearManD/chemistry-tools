@@ -183,6 +183,12 @@
 		"melting_point": -68.74,
 		"boiling_point": 57.65
 	},
+	"7783-61-1": {
+		"name": "Silicon Tetrafluoride",
+		"formula": "SiF4",
+		"melting_point": -95.0,
+		"boiling_point": -90.3
+	},
 	"7782-50-5": {
 		"name": "Chlorine",
 		"formula": "Cl2",
@@ -364,5 +370,11 @@
 		"formula": "Na2O",
 		"melting_point": 1132,
 		"boiling_point": 1950
+	},
+	"13775-53-6": {
+		"name": "Sodium Aluminum Hexafluoride",
+		"formula": "Na3AlF6",
+		"melting_point": 950,
+		"aliases": ["Cryolite"]
 	}
 }
