@@ -375,5 +375,44 @@
 		"min_temperature": 0.0,
 		"max_temperature": 100.0,
 		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"1344-28-1": "1 s",
+			"7664-39-3": "6 aq"
+		},
+		"products": {
+			"7784-18-1": "2 aq",
+			"7732-18": "3 l"
+		},
+		"min_temperature": null,
+		"max_temperature": null,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"1344-28-1": "1 s",
+			"1310-73-2": "6 l"
+		},
+		"products": {
+			"21645-51-2": "2 l",
+			"1313-59-3": "3 s"
+		},
+		"min_temperature": 900.0,
+		"max_temperature": 1100.0,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"1344-28-1": "1 s",
+			"1310-73-2": "2 l"
+		},
+		"products": {
+			"1302-42-7": "2 s",
+			"7732-18": "1 g"
+		},
+		"min_temperature": 900.0,
+		"max_temperature": 1100.0,
+		"energy_delta_joules": null
 	}
 ]

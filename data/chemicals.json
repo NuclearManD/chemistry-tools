@@ -329,6 +329,8 @@
 	"1344-28-1": {
 		"name": "Aluminum Oxide",
 		"formula": "Al2O3",
+		"melting_point": 2072,
+		"boiling_point": 2977,
 		"aliases": ["Corundum", "Alumina"]
 	},
 	"1302-42-7": {
@@ -342,5 +344,25 @@
 		"formula": "Al",
 		"melting_point": 660.32,
 		"boiling_point": 2470
+	},
+	"7784-18-1": {
+		"name": "Aluminum Fluoride",
+		"formula": "AlF3",
+		"melting_point": 1290,
+		"boiling_point": 1290,
+		"water_solubility": 6.7
+	},
+	"7664-39-3": {
+		"name": "Hydrogen Fluoride",
+		"formula": "HF",
+		"melting_point": -83.6,
+		"boiling_point": 19.5,
+		"aliases": ["Hydrofluoric Acid"]
+	},
+	"1313-59-3": {
+		"name": "Sodium Oxide",
+		"formula": "Na2O",
+		"melting_point": 1132,
+		"boiling_point": 1950
 	}
 }
