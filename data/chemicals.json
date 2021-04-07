@@ -314,5 +314,27 @@
 		"formula": "SO3",
 		"melting_point": 16.9,
 		"boiling_point": 45
+	},
+	"1302-52-9": {
+		"name": "Beryllium Aluminum Silicate",
+		"formula": "Al2Be3O18Si6",
+		"melting_point": 1650,
+		"aliases": ["Beryl", "Emerald"]
+	},
+	"12161-82-9": {
+		"name": "Beryllium Silicate Hydrate",
+		"formula": "Be4(OH)2O(SiO3)2",
+		"aliases": ["Bertrandite"]
+	},
+	"1344-28-1": {
+		"name": "Aluminum Oxide",
+		"fomula": "Al2O3",
+		"aliases": ["Corundum", "Alumina"]
+	},
+	"1302-42-7": {
+		"name": "Sodium Aluminate",
+		"formula": "NaAlO2",
+		"melting_point": 1650,
+		"water_solubility": true
 	}
 }
