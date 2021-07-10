@@ -382,7 +382,7 @@
 		"formula": "C2H5OH",
 		"melting_point": -114.14,
 		"boiling_point": 78.23,
-		"aliases": ["Ethyl Alcohol", "Grain Alcohol", "Drinking Alcohol"]
+		"aliases": ["Ethyl Alcohol", "Grain Alcohol", "Drinking Alcohol", "CH3CH2OH"]
 	},
 	"1309-37-1": {
 		"name": "Iron(III) Oxide",
@@ -413,5 +413,12 @@
 		"formula": "FeO",
 		"melting_point": 1377,
 		"boiling_point": 3414
+	},
+	"74-85-1": {
+		"name": "Ethylene",
+		"formula": "C2H4",
+		"melting_point": -169.2,
+		"boiling_point": -103.7,
+		"aliases": ["Ethene"]
 	}
 }
