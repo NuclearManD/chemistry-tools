@@ -376,5 +376,42 @@
 		"formula": "Na3AlF6",
 		"melting_point": 950,
 		"aliases": ["Cryolite"]
+	},
+	"64-17-5": {
+		"name": "Ethanol",
+		"formula": "C2H5OH",
+		"melting_point": -114.14,
+		"boiling_point": 78.23,
+		"aliases": ["Ethyl Alcohol", "Grain Alcohol", "Drinking Alcohol"]
+	},
+	"1309-37-1": {
+		"name": "Iron(III) Oxide",
+		"formula": "Fe2O3",
+		"melting_point": 1539,
+		"aliases": ["Hematite", "Rust"]
+	},
+	"1317-61-9": {
+		"name": "Iron(II,III) Oxide",
+		"formula": "Fe3O4",
+		"melting_point": 1597,
+		"boiling_point": 2623,
+		"aliases": ["Magnetite", "Lodestone", "Rust"]
+	},
+	"18624-44-7": {
+		"name": "Iron(II) Hydroxide",
+		"formula": "Fe(OH)2"
+	},
+	"7439-89-6": {
+		"name": "Iron",
+		"formula": "Fe",
+		"melting_point": 1538,
+		"boiling_point": 2862,
+		"resistivity_nRm": 96.1
+	},
+	"1345-25-1": {
+		"name": "Iron(II) Oxide",
+		"formula": "FeO",
+		"melting_point": 1377,
+		"boiling_point": 3414
 	}
 }
