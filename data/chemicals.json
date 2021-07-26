@@ -33,6 +33,12 @@
 		"name": "Coke Coal",
 		"formula": "C"
 	},
+	"7440-22-4": {
+		"name": "Silver",
+		"formula": "Ag",
+		"melting_point": 961.78,
+		"boiling_point": 2162
+	},
 	"1305-78-8": {
 		"name": "Calcium Oxide",
 		"formula": "CaO",
@@ -420,5 +426,60 @@
 		"melting_point": -169.2,
 		"boiling_point": -103.7,
 		"aliases": ["Ethene"]
+	},
+	"50-00-0": {
+		"name": "Formaldehyde",
+		"formula": "CH2O",
+		"melting_point": -92,
+		"boiling_point": -19,
+		"aliases": ["Methanal", "Formalin", "Formol"],
+		"ld50_mgkg": 100,
+		"lc_ld_ppm": 333
+	},
+	"6484-52-2": {
+		"name": "Ammonium Nitrate",
+		"formula": "NH4NO3",
+		"melting_point": 169.6,
+		"boiling_point": 210,
+		"aliases": ["Gwihabaite", "Nitrammite"]
+	},
+	"108-24-7": {
+		"name": "Acetic Anhydride",
+		"formula": "(CH3CO)2O",
+		"melting_point": -73.1,
+		"boiling_point": 139.8,
+		"aliases": ["Acetyl Oxide", "Acetic Oxide"]
+	},
+	"100-97-0": {
+		"name": "Hexamine",
+		"formula": "(CH2)6N4",
+		"melting_point": 280,
+		"boiling_point": 280,
+		"aliases": ["Formin", "Aminoform", "Urotropine"]
+	},
+	"121-82-4": {
+		"name": "Cyclonite",
+		"formula": "(CH2NNO2)3",
+		"melting_point": 205.5,
+		"boiling_point": 234,
+		"aliases": ["RDX"],
+		"ld50_mgkg": 100,
+		"safety_notes_en": "Super explosive - stronger than TNT!  Highly toxic.  Handle with extreme care."
+	},
+	"64-19-7": {
+		"name": "Acetic Acid",
+		"formula": "CH3COOH",
+		"melting_point": 16.5,
+		"boiling_point": 118.5,
+		"aliases": ["Vinegar", "Methanecarboxylic Acid", "Ethanoic Acid"]
+	},
+	"108-88-3": {
+		"name": "Toluene",
+		"formula": "fghjkl;",
+		"melting_point": -95,
+		"boiling_point": 111,
+		"aliases": ["Toluol", "Methylbenzene", "Anisen"],
+		"lc_ld_ppm": 55000,
+		"safety_notes_en": "Toxic, damages nervous system.  Intoxicating."
 	}
 }
