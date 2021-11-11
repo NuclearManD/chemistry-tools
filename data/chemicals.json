@@ -263,6 +263,14 @@
 		"boiling_point": 1388,
 		"aliases": ["Lye", "Caustic Soda"]
 	},
+	"1310-58-3": {
+		"name": "Potassium Hydroxide",
+		"formula": "KOH",
+		"melting_point": 360,
+		"boiling_point": 1327,
+		"water_solubility": 121,
+		"aliases": ["Lye", "Caustic Potash", "Potash Lye"]
+	},
 	"497-19-8": {
 		"name": "Sodium Carbonate",
 		"formula": "Na2CO3",
@@ -481,5 +489,87 @@
 		"aliases": ["Toluol", "Methylbenzene", "Anisen"],
 		"lc_ld_ppm": 55000,
 		"safety_notes_en": "Toxic, damages nervous system.  Intoxicating."
+	},
+	"13721-34-1": {
+		"name": "Sodium Diuranate",
+		"formula": "Na2U2O7",
+		"aliases": ["SDU"],
+		"safety_notes_en": "Radioactive. Toxic."
+	},
+	"12274-95-2": {
+		"name": "Uranyl Carbonate",
+		"formula": "UO2CO3",
+		"density_gcm3": 5.7,
+		"aliases": ["Rutherfordine"],
+		"safety_notes_en": "Radioactive. Toxic."
+	},
+	"1314-64-3": {
+		"name": "Uranyl Sulfate",
+		"formula": "UO2SO4",
+		"aliases": ["20910-28-5"],
+		"density_gcm3": 3.28,
+		"water_solubility": 27.5,
+		"safety_notes_en": "Radioactive. Toxic."
+	},
+	"10102-06-4": {
+		"name": "Uranyl Nitrate",
+		"formula": "UO2(NO3)2",
+		"aliases": [],
+		"water_solubility": true,
+		"safety_notes_en": "Radioactive. Toxic."
+	},
+	"7791-26-6": {
+		"name": "Uranyl Chloride",
+		"formula": "UO2Cl2",
+		"aliases": [],
+		"water_solubility": true,
+		"safety_notes_en": "Radioactive. Toxic."
+	},
+	"211573-15-8": {
+		"name": "Uranyl Hydroxide",
+		"formula": "UO2(OH)2",
+		"water_solubility": false,
+		"aliases": ["Uranyl Dihydroxide"],
+		"safety_notes_en": "Radioactive. Teratogenic (mutates biological organisms)."
+	},
+	"7783-22-4": {
+		"name": "Ammonium Diuranate",
+		"formula": "(NH4)2U2O7",
+		"aliases": ["ADU"],
+		"safety_notes_en": "Radioactive. Toxic."
+	},
+	"7783-81-5": {
+		"name": "Uranium Hexafluoride",
+		"formula": "UF6",
+		"aliases": ["hex"],
+		"safety_notes_en": "Extreme danger.  Highly reactive, toxic, corrosive, and radioactive.  Oxidizer.  Reacts with water."
+	},
+	"7790-63-8": {
+		"name": "Potassium Diuranate",
+		"formula": "K2U2O7",
+		"aliases": [],
+		"density_gcm3": 6.12,
+		"water_solubility": false
+	},
+	"1344-58-7": {
+		"name": "Uranium Trioxide",
+		"formula": "UO3",
+		"aliases": ["Uranyl Oxide", "Uranic Oxide"],
+		"safety_notes_en": "Radioactive. Toxic."
+	},
+	"1344-57-6": {
+		"name": "Uranium Dioxide",
+		"formula": "UO2",
+		"aliases": ["Urania", "Uraninite"],
+		"density_gcm3": 10.97,
+		"melting_point": 2865,
+		"water_solubility": false
+	},
+	"1344-59-8": {
+		"name": "Triuranium Octoxide",
+		"formula": "U3O8",
+		"aliases": ["Pitchblende"],
+		"water_solubility": false,
+		"melting_point": 1150
 	}
 }
