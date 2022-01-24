@@ -29,6 +29,12 @@
 		"melting_point": -192.2,
 		"boiling_point": -112
 	},
+	"7722-84-1" : {
+		"name": "Hydrogen Peroxide",
+		"formula": "H2O2",
+		"melting_point": -0.43,
+		"boiling_point": 150.2
+	},
 	"65996-77-2": {
 		"name": "Coke Coal",
 		"formula": "C"
