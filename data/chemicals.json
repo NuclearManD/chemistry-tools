@@ -131,7 +131,7 @@
 		"boiling_point": -85.05
 	},
 	"13478-00-7": {
-		"name": "Nickel Nitrate",
+		"name": "Nickel(II) Nitrate",
 		"formula": "Ni(NO3)2",
 		"melting_point": 56.7,
 		"boiling_point": 136.7
@@ -173,14 +173,14 @@
 		"boiling_point": 21.15
 	},
 	"13463-39-3": {
-		"name": "Nickel Tetracarbonyl",
+		"name": "Nickel(IV) Tetracarbonyl",
 		"formula": "Ni(CO)4",
 		"melting_point": -17.2,
 		"boiling_point": 43,
 		"safety_notes_en": "EXTREMELY DANGEROUS: Rapid skin absorbtion, highly toxic.  Very short exposure could cause death or major residual injury.  Most likely you will inhale it (due to high volatility), absorb nickel in your body, and potentially die in a few days, after experiencing depression and fatigue."
 	},
 	"1313-99-1": {
-		"name": "Nickel Oxide",
+		"name": "Nickel(II) Oxide",
 		"formula": "NiO",
 		"melting_point": 1955
 	},
@@ -285,7 +285,7 @@
 		"aliases": ["Soda Ash", "Washing Soda", "Natron", "Thermonatrite"]
 	},
 	"12068-85-8": {
-		"name": "Iron Disulfide",
+		"name": "Iron(IV) Disulfide",
 		"formula": "FeS2",
 		"melting_point": 1180,
 		"aliases": ["Marcasite", "Pyrite", "Iron Pyrite"],
@@ -317,7 +317,7 @@
 		"aliases": ["Gibbsite"]
 	},
 	"13918-37-1": {
-		"name": "Iron Silicate",
+		"name": "Iron(II) Silicate",
 		"formula": "Fe2SiO4",
 		"aliases": ["Fayalite"]
 	},
@@ -547,7 +547,7 @@
 		"safety_notes_en": "Radioactive. Toxic."
 	},
 	"7783-81-5": {
-		"name": "Uranium Hexafluoride",
+		"name": "Uranium(VI) Hexafluoride",
 		"formula": "UF6",
 		"aliases": ["hex"],
 		"safety_notes_en": "Extreme danger.  Highly reactive, toxic, corrosive, and radioactive.  Oxidizer.  Reacts with water."
@@ -560,14 +560,14 @@
 		"water_solubility": false
 	},
 	"1344-58-7": {
-		"name": "Uranium Trioxide",
+		"name": "Uranium(VI) Trioxide",
 		"formula": "UO3",
 		"aliases": ["Uranyl Oxide", "Uranic Oxide"],
 		"color_desc_en": "typically yellow-orange",
 		"safety_notes_en": "Radioactive. Toxic."
 	},
 	"1344-57-6": {
-		"name": "Uranium Dioxide",
+		"name": "Uranium(IV) Dioxide",
 		"formula": "UO2",
 		"aliases": ["Urania", "Uraninite"],
 		"density_gcm3": 10.97,
@@ -592,7 +592,7 @@
 		"safety_notes_en": "Radioactive. Toxic."
 	},
 	"10026-10-5": {
-		"name": "Uranium Tetrachloride",
+		"name": "Uranium(IV) Tetrachloride",
 		"formula": "UCl4",
 		"aliases": ["Tetrachlorouranium", "Uranous chloride"],
 		"color_desc_en": "olive-green",
