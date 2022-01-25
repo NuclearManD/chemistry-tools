@@ -527,9 +527,10 @@
 	"7791-26-6": {
 		"name": "Uranyl Chloride",
 		"formula": "UO2Cl2",
-		"aliases": [],
 		"water_solubility": true,
-		"safety_notes_en": "Radioactive. Toxic."
+		"safety_notes_en": "Radioactive. Toxic.",
+		"aliases": ["Dichlorodioxouranium"],
+		"color_desc_en": "yellow"
 	},
 	"211573-15-8": {
 		"name": "Uranyl Hydroxide",
@@ -583,13 +584,6 @@
 		"color_desc_en": "olive green to black",
 		"safety_notes_en": "Radioactive. Toxic."
 	},
-	"7791-26-6": {
-		"name": "Uranyl Chloride",
-		"formula": "UO2Cl2",
-		"aliases": ["Dichlorodioxouranium"],
-		"color_desc_en": "yellow",
-		"safety_notes_en": "Radioactive. Toxic."
-	},
 	"10026-10-5": {
 		"name": "Uranium Tetrachloride",
 		"formula": "UCl4",
@@ -599,5 +593,22 @@
 		"melting_point": 590,
 		"boiling_point": 791,
 		"safety_notes_en": "Radioactive. Toxic."
-	}
+	},
+	"unknown-carnotite": {
+		"name": "Carnotite",
+		"formula": "K2(UO2)2(VO4)2",
+		"aliases": [],
+		"color_desc_en": "bright-yellow",
+		"density_gcm3": 4.7,
+		"safety_notes_en": "Radioactive. Toxic."
+	},
+	"unknown-autunite": {
+		"name": "Autunite",
+		"formula": "Ca(UO2)2(PO4)2",
+		"aliases": [],
+		"color_desc_en": "yellow-green",
+		"density_gcm3": 3.15,
+		"safety_notes_en": "Radioactive. Toxic."
+	},
+
 }
