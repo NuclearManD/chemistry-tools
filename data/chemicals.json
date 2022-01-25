@@ -609,10 +609,80 @@
 	"7790-98-9": {
 		"name": "Ammonium Perchlorate",
 		"formula": "NH4ClO4",
-		"color_desc_en": "White"
+		"color_desc_en": "White",
 		"density_gcm3": 1.95,
 		"decomposition_point": 130,
-		"water_solubility": 23
+		"water_solubility": 23,
 		"safety_notes_en": "Powerful Oxidizer. Explosive."
+	},
+	"7440-48-4": {
+		"name": "Cobalt",
+		"formula": "Co",
+		"color_desc_en": "Metallic Gray",
+		"density_gcm3": 8.90,
+		"melting_point": 1495,
+		"boiling_point": 2927,
+		"water_solubility": false,
+		"safety_notes_en": "Toxic."
+	},
+	"7440-47-3": {
+		"name": "Chromium",
+		"formula": "Cr",
+		"color_desc_en": "Chrome to light silver",
+		"density_gcm3": 7.19,
+		"melting_point": 1907,
+		"boiling_point": 2671,
+		"water_solubility": false,
+		"safety_notes_en": "Toxic."
+	},
+	"7440-43-9": {
+		"name": "Cadmium",
+		"formula": "Cd",
+		"color_desc_en": "Metallic Gray",
+		"density_gcm3": 8.65,
+		"melting_point": 321,
+		"boiling_point": 767,
+		"water_solubility": false,
+		"safety_notes_en": "Highly Toxic Carcinogen"
+	},
+	"7440-05-3": {
+		"name": "Palladium",
+		"formula": "Pd",
+		"color_desc_en": "Metallic Gray/Silver",
+		"density_gcm3": 12.0,
+		"melting_point": 1555,
+		"boiling_point": 2963,
+		"water_solubility": false,
+		"safety_notes_en": "Highly Toxic Carcinogen"
+	},
+	"7440-04-2": {
+		"name": "Osmium",
+		"formula": "Os",
+		"color_desc_en": "Metallic Gray/White",
+		"density_gcm3": 22.59,
+		"melting_point": 3033,
+		"boiling_point": 5012,
+		"water_solubility": false,
+	},
+	"20816-12-0": {
+		"name": "Osmium(VIII) Oxide",
+		"aliases": ["Osmium Tetroxide"],
+		"formula": "OsO4",
+		"color_desc_en": "Pale Yellow",
+		"density_gcm3": 4.90,
+		"melting_point": 40.25,
+		"boiling_point": 130,
+		"water_solubility": 6.23,
+		"safety_notes_en": "Highly Toxic Irritant and Carcinogen."
+	},
+	"7440-55-3": {
+		"name": "Gallium",
+		"formula": "Ga",
+		"color_desc_en": "Metallic Silver/White",
+		"density_gcm3": 5.91,
+		"melting_point": 29.8,
+		"boiling_point": 2400,
+		"water_solubility": false,
+		"safety_notes_en": "Toxic. Irritant."
 	},
 }
