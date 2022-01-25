@@ -125,6 +125,7 @@
 	},
 	"7647-01-0": {
 		"name": "Hydrogen Chloride",
+		"aliases": ["Hydrochloric acid"],
 		"formula": "HCl",
 		"melting_point": -114.22,
 		"boiling_point": -85.05
@@ -610,5 +611,18 @@
 		"density_gcm3": 3.15,
 		"safety_notes_en": "Radioactive. Toxic."
 	},
-
+	"1327-53-3": {
+		"name": "Arsenic Trioxide",
+		"formula": "AsO3",
+		"safety_notes_en": "Highly toxic."
+	},
+	"7790-98-9": {
+		"name": "Ammonium Perchlorate",
+		"formula": "NH4ClO4",
+		"color_desc_en": "White",
+		"density_gcm3": 1.95,
+		"decomposition_point": 130,
+		"water_solubility": 23,
+		"safety_notes_en": "Powerful Oxidizer. Explosive."
+	}
 }
