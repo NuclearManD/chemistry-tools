@@ -599,5 +599,10 @@
 		"melting_point": 590,
 		"boiling_point": 791,
 		"safety_notes_en": "Radioactive. Toxic."
+	},
+	"1327-53-3": {
+		"name": "Arsenic trioxide",
+		"formula": "AsO3",
+		"safety_notes_en": "Highly toxic."
 	}
 }
