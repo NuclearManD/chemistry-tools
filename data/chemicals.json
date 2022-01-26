@@ -11,6 +11,38 @@
 		"name": "Calcium Hydroxide",
 		"formula": "Ca(OH)2"
 	},
+	"7447-40-7": {
+		"name": "Potassium Chloride",
+		"formula": "KCl",
+		"melting_point": 770,
+		"boiling_point": 1420,
+		"density_gcm3": 1.984,
+		"water_solubility": 34
+	},
+	"1314-62-1": {
+		"name": "Vanadium (V) Oxide",
+		"formula": "V2O5",
+		"melting_point": 690,
+		"decomposition_point": 1750,
+		"density_gcm3": 3.357,
+		"water_solubility": 0.07
+	},
+	"7664-38-2": {
+		"name": "Phosphoric Acid",
+		"formula": "H3PO4",
+		"melting_point": 42.4,
+		"decomposition_point": 1750,
+		"density_gcm3": 1.834,
+		"water_solubility": 500
+	},
+	"10043-52-4": {
+		"name": "Calcium Chloride",
+		"formula": "CaCl2",
+		"melting_point": 772,
+		"boiling_point": 1935,
+		"density_gcm3": 2.15,
+		"water_solubility": 74
+	},
 	"7732-18": {
 		"name": "Water",
 		"formula": "H2O",

@@ -630,5 +630,34 @@
 		"min_temperature": 500.0,
 		"max_temperature": 550.0,
 		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"unknown-carnotite": "1 s",
+			"7647-01-0": "2 aq"
+		},
+		"products": {
+			"7447-40-7": "2 aq",
+			"1344-58-7": "2 aq",
+			"1314-62-1": "1 aq",
+			"7732-18": "1 l"
+		},
+		"min_temperature": 0.1,
+		"max_temperature": 100.0,
+		"energy_delta_joules": null
+	},
+	{
+		"reactants": {
+			"unknown-autunite": "1 s",
+			"7647-01-0": "6 aq"
+		},
+		"products": {
+			"7664-38-2": "2 aq",
+			"10043-52-4": "1 aq",
+			"7791-26-6": "2 aq"
+		},
+		"min_temperature": 0.1,
+		"max_temperature": 100.0,
+		"energy_delta_joules": null
 	}
 ]
