@@ -128,7 +128,10 @@
 		"aliases": ["Hydrochloric acid"],
 		"formula": "HCl",
 		"melting_point": -114.22,
-		"boiling_point": -85.05
+		"boiling_point": -85.05,
+		"solubility_g100g": {
+			"H2O": 82.3
+		}
 	},
 	"13478-00-7": {
 		"name": "Nickel(II) Nitrate",
@@ -275,13 +278,21 @@
 		"formula": "KOH",
 		"melting_point": 360,
 		"boiling_point": 1327,
-		"water_solubility": 121,
+		"solubility_g100g": {
+			"H2O": 121
+		}
 		"aliases": ["Lye", "Caustic Potash", "Potash Lye"]
 	},
 	"497-19-8": {
 		"name": "Sodium Carbonate",
 		"formula": "Na2CO3",
 		"melting_point": 851,
+		"solubility_g100g": {
+			"H2O": 30.7,
+			"C3H8O3": 98.3,
+			"(CH2OH)2": 3.46,
+			"(CH3)2NC(O)H": 0.05
+		},
 		"aliases": ["Soda Ash", "Washing Soda", "Natron", "Thermonatrite"]
 	},
 	"12068-85-8": {
