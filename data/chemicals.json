@@ -27,6 +27,13 @@
 		"density_gcm3": 3.357,
 		"water_solubility": 0.07
 	},
+	"10213-09-9": {
+		"name": "Vanadium Oxydichloride",
+		"formula": "Cl2OV",
+		"density_gcm3": 2.88,
+		"water_solubility": true,
+		"aliases": ["VOCl2"]
+	},
 	"7664-38-2": {
 		"name": "Phosphoric Acid",
 		"formula": "H3PO4",
@@ -444,6 +451,14 @@
 		"formula": "Fe2O3",
 		"melting_point": 1539,
 		"aliases": ["Hematite", "Rust"]
+	},
+	"7705-08-0": {
+		"name": "Iron(III) Chloride",
+		"formula": "FeCl3",
+		"melting_point": 307.6,
+		"decomposition_point": 316,
+		"water_solubility": 91.2,
+		"aliases": ["Molysite"]
 	},
 	"1317-61-9": {
 		"name": "Iron(II,III) Oxide",
