@@ -445,6 +445,14 @@
 		"melting_point": 1539,
 		"aliases": ["Hematite", "Rust"]
 	},
+	"7705-08-0": {
+		"name": "Iron(III) Chloride",
+		"formula": "FeCl3",
+		"melting_point": 307.6,
+		"decomposition_point": 316,
+		"water_solubility": 91.2,
+		"aliases": ["Molysite"]
+	},
 	"1317-61-9": {
 		"name": "Iron(II,III) Oxide",
 		"formula": "Fe3O4",
