@@ -34,6 +34,19 @@
 		"water_solubility": true,
 		"aliases": ["VOCl2"]
 	},
+	"1310-14-1": {
+		"name": "Iron(III) Oxide-Hydroxide",
+		"formula": "FeO(OH)",
+		"aliases": ["Fe(OH)3", "Rust"],
+		"density_gcm3": 4.25
+	},
+	"471-34-1": {
+		"name": "Calcium Carbonate",
+		"formula": "CaCO3",
+		"aliases": ["Chalk", "Calcite", "Aragonite", "Lime", "Limestone"],
+		"density_gcm3": 2.83,
+		"melting_point": 1339
+	},
 	"7664-38-2": {
 		"name": "Phosphoric Acid",
 		"formula": "H3PO4",
