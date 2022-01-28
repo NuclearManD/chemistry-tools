@@ -27,6 +27,13 @@
 		"density_gcm3": 3.357,
 		"water_solubility": 0.07
 	},
+	"10213-09-9": {
+		"name": "Vanadium Oxydichloride",
+		"formula": "Cl2OV",
+		"density_gcm3": 2.88,
+		"water_solubility": true,
+		"aliases": ["VOCl2"]
+	},
 	"7664-38-2": {
 		"name": "Phosphoric Acid",
 		"formula": "H3PO4",
