@@ -149,7 +149,8 @@
 		"name": "Sodium Chloride",
 		"formula": "NaCl",
 		"melting_point": 800.7,
-		"boiling_point": 1465
+		"boiling_point": 1465,
+		"water_solubility": 36
 	},
 	"74-82-8": {
 		"name": "Methane",
