@@ -300,6 +300,7 @@
 		"formula": "NaOH",
 		"melting_point": 323,
 		"boiling_point": 1388,
+		"water_solubility": 100,
 		"aliases": ["Lye", "Caustic Soda"]
 	},
 	"1310-58-3": {
@@ -314,6 +315,7 @@
 		"name": "Sodium Carbonate",
 		"formula": "Na2CO3",
 		"melting_point": 851,
+		"water_solubility": 22,
 		"aliases": ["Soda Ash", "Washing Soda", "Natron", "Thermonatrite"]
 	},
 	"12068-85-8": {
